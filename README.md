@@ -1,2 +1,4 @@
+<img src="gitassets/esmFedi.png">
+
 # esmFedi
-esmBot fork but made to work on the fediverse.
+esmBot but made to work on the fediverse.
