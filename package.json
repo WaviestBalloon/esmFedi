@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "dotenv": "^16.1.4",
-    "misskey-js": "^0.0.16",
     "ws": "^8.13.0"
   },
   "name": "esmfedi",
